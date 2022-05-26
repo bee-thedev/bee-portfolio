@@ -333,6 +333,7 @@ button:focus {
 
 
 .hero-content h2 {
+    font-family: 'Roboto', sans-serif;
     color: #fff;
     font-size: 90px;
     font-weight: 600;
@@ -435,7 +436,9 @@ button:focus {
 
 .social-aria a:hover {
     border-radius: 50%;
+    color: #e65a0a;
 }
+
 
 .social-aria:after {
     position: absolute;
